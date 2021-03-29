@@ -1,7 +1,7 @@
 body {
     background-image: url("https://Sydney584.github.io/images/20210101_072514 (2).jpg");
     background-color: plum;
-    height: 1500px;
+    height: fit-content;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
